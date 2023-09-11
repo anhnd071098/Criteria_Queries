@@ -1,0 +1,41 @@
+@charset 'utf-8';
+.icon {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.language-icon {
+  background: url("../img/icons/global.png");
+  width: 20px;
+  height: 20px;
+}
+
+.hamburger-bar-icon {
+  background: url("../img/icons/bar.png");
+  width: 20px;
+  height: 16px;
+}
+
+.calendar-icon {
+  background: url("../img/icons/calendar.png");
+  width: 40px;
+  height: 40px;
+}
+
+.arrow-prev-icon {
+  background: url("../img/icons/arrow-prev.png");
+  width: 7px;
+  height: 12px;
+}
+
+.arrow-next-icon {
+  background: url("../img/icons/arrow-next.png");
+  width: 7px;
+  height: 12px;
+}
+
+.arrow-up-icon {
+  background: url("../img/icons/arrow-up.png");
+  width: 11px;
+  height: 6px;
+}

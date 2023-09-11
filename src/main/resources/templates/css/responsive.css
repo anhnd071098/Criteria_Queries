@@ -1,0 +1,32 @@
+@charset 'utf-8';
+
+/* desktop */
+@media screen and (min-width: 1024px) {
+  .news-contents .news-element .news-content {
+    /* width: 830px; */
+  }
+
+  .top-header-wrap .menu {
+    display: flex;
+  }
+
+  .container {
+    padding: 0 130px;
+  }
+
+  .slide-about {
+    width: 1360px;
+  }
+}
+
+/* tablet */
+@media screen and (max-width: 1023px) {
+  .slide-about .slide-about-element {
+    width: 660px;
+    text-align: center;
+  }
+}
+
+/* mobile */
+@media screen and (max-width: 767px) {
+}
